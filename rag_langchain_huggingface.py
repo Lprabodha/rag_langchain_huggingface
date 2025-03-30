@@ -46,7 +46,7 @@ output_parser = StrOutputParser()
 
 from langchain_community.document_loaders import PyPDFLoader
 
-pdf_files = ["/networking.pdf", "/aws-overview.pdf"]
+pdf_files = ["/content/networking.pdf", "/content.aws-overview.pdf"]
 docs = []
 
 for pdf in pdf_files:
