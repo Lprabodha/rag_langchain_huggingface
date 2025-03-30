@@ -1,7 +1,7 @@
-## RAG Application with LangChain and Hugging Face LLM
+# RAG Application with LangChain and Hugging Face LLM
 🚀 Retrieval-Augmented Generation (RAG) for Document Q&A using LangChain and Hugging Face LLMs
 
-# Overview
+## Overview
 This repository contains a RAG-based application that uses LangChain, Hugging Face's Zephyr-7B LLM, and ChromaDB to answer questions based on document content. The application processes PDF documents, extracts relevant text chunks, stores them in a vector database, and retrieves context-aware answers.
 
 Features
